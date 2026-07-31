@@ -19,7 +19,7 @@ age = 25
 year = 2024
 temperature = -3
 
-height - 1.75
+height = 1.75
 name = "Alice"
 
 student = False
